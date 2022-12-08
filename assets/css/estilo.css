@@ -1,3 +1,29 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
 
+.encabezado {
+  background-color: blue;
+  padding: 3%;
+}
+.encabezado__tema {
+  color: aqua;
+  text-align: center;
+}
+.encabezado__tema__parrafo {
+  text-align: center;
+}
+
+hr {
+  border: 2px solid;
+  margin-bottom: 1%;
+}
+
+.main {
+  background-image: url("../img/pasted image 0.png");
+  margin-bottom: 2%;
+  position: relative;
+}
 
 /*# sourceMappingURL=estilo.css.map */
