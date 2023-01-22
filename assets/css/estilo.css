@@ -26,4 +26,13 @@ hr {
   position: relative;
 }
 
+.contenedor {
+  display: flex;
+  background-color: rgb(99, 175, 206);
+}
+
+.info {
+  padding-bottom: 20rem;
+}
+
 /*# sourceMappingURL=estilo.css.map */
